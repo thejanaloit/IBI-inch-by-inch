@@ -66,6 +66,8 @@ Script helpers (this skill):
 - `scripts/ibi_discover_pages.py` — build `pages-index.json`
 - `scripts/ibi_local_serve.py` — hint / start static serve
 - `scripts/ibi_init_excel.py` — create tracker workbook
+- `scripts/ibi_hardcode_stub.py` — mandatory hardcode pack skeleton
+- `scripts/ibi_mesh_plan.py` — 1×1 or 16-cell mesh from measured page size
 - `scripts/ibi_mark_cell.py` — mark cell/page cycle status
 - `scripts/ibi_runner.py` — one-by-one page/cell driver (gate on Excel)
 

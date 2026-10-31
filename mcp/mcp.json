@@ -1,0 +1,6 @@
+﻿{
+  "name": "ibi-inch-by-inch",
+  "version": "0.1.0",
+  "description": "IBI Inch By Inch MCP — status, next cell, batch mesh runner",
+  "entrypoint": "mcp/server.py"
+}
